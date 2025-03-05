@@ -1,0 +1,90 @@
+.myStyle {
+    background-image: url("/image/bg-image.jpg");
+    color: white;
+    background-size: "cover";
+    background-repeat: "no-repeat";
+    min-height: 100vh; /* Ensure it covers at least the viewport height */
+    
+  }
+
+.myStyle h1{
+  text-align: center;
+    padding: 20px;
+  }
+.myStyle h2, h3, h4{
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.myNavBar h1{
+  background-color: rgb(140, 170, 200);
+  padding: 5px;
+  text-align: center;
+}
+
+  .myNavBar ul{
+    list-style-type: none;
+    background-color: rgb(140, 170, 200);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+
+  .myNavBar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+  }
+
+  .myNavBar a:hover{
+    background-color: rgb(120, 150, 180);
+  }
+
+  .myNavBar li{
+    float: left;
+  }
+.bigTitle{
+  padding-left: 20px;
+
+  font-weight: bold;
+  font-size: 30px; 
+}
+.subTitle{
+  padding-left: 20px;
+
+  font-weight: bold;
+  font-size: 24px; 
+}
+.bigText{
+  font-size: 22px;
+  padding-left: 10px;
+}
+.biggerText{
+  font-size: 22px;
+  padding-left: 1%;
+  display: flex;
+}
+.smallText{
+  font-size: 18px;
+  padding-left: 1%;
+}
+
+.homePage p{
+  font-size: 200%;
+  padding-left: 10px;
+}
+
+.aboutText {
+  display: flex;
+}
+
+.aboutText p{
+  margin: 3%;
+}
+
+.aboutPhoto{
+  float: right;
+  margin: 5%;
+}
