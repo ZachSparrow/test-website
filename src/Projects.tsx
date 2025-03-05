@@ -9,6 +9,7 @@ function Projects() {
         Below I have a list of projects that I have worked on. Either from
         university or personal endeavors
       </h2>
+      <h2>This page is a work in progress</h2>
 
       <a href="https://github.com/ZachSparrow/cs465_Fullstack">
         {" "}
