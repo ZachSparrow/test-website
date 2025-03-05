@@ -5,9 +5,10 @@ function Projects() {
       <MyNavigationBar />
       <h1>Projects Page</h1>
 
-      <h2>Either elaborate on each project</h2>
-      <h2>Or give each project its own page for bonus details.</h2>
-      <h2>I like option 2 a little more, despite the additional effort</h2>
+      <h2>
+        Below I have a list of projects that I have worked on. Either from
+        university or personal endeavors
+      </h2>
 
       <a href="https://github.com/ZachSparrow/cs465_Fullstack">
         {" "}
